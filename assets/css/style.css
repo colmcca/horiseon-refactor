@@ -69,13 +69,13 @@ nav {
     margin-left: 25px;
 }
 
-#content {
+#content-article {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-#benefits {
+#benefits-article {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -86,55 +86,23 @@ nav {
     background-color: #2589bd;
 }
 
-#benefit-lead {
+.benefits-sections {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-#benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-#benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-#lead-generation-title {
+.benefits-titles {
     margin-bottom: 10px;
     text-align: center;
 }
 
-#brand-awareness-title {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-#cost-management-title {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-#lead-generation-image {
+.benefits-images {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-#brand-awareness-image {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-#cost-management-image {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-#search-engine-optimization {
+.content-sections {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -143,47 +111,11 @@ nav {
     color: #ffffff;
 }
 
-#online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-#social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-#search-engine-image {
+.content-images {
     max-height: 200px;
 }
 
-#online-reputation-image {
-    max-height: 200px;
-}
-
-#social-media-image {
-    max-height: 200px;
-}
-
-#search-engine-title {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-#online-reputation-title {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-#social-media-title {
+.content-titles {
     margin-bottom: 20px;
     font-size: 36px;
 }
