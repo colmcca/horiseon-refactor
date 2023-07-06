@@ -18,4 +18,4 @@ You are able to view the contents on this page by scrolling down on the web page
 
 ## License
 
-Please refer to the LICENSE in the repo.
+N/A
