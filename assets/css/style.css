@@ -69,13 +69,13 @@ nav {
     margin-left: 25px;
 }
 /* Main article that includes images that takes up most of page */
-#content-article {
+#middle-sections {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 /* Article on the right side that contains graphics. Uses hex for background color */
-#benefits-article {
+#right-section {
     margin-right: 20px;
     padding: 20px;
     clear: both;
